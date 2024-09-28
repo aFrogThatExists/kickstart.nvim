@@ -1,5 +1,10 @@
 # kickstart.nvim
 
+## Personal Instuctions
+
+- Make sure to do `npm install -g @fsouza/prettierd`
+
+
 ## Introduction
 
 A starting point for Neovim that is:
